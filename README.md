@@ -14,7 +14,7 @@
     <h3>dai di un po' cosa ne pensi? è stupida come cosa ahahahah </h3>
     <h3>se visualizzi tutto scrivimi la parola <b>CIUCHINO</b> cosi capirò che ha funzionato </h3>
     <h3>Cuore ti do tutto il mio cuore ti amo</h3>
-    <img src="https://png.pngtree.com/png-clipart/20210423/ourmid/pngtree-beautiful-bright-red-heart-png-image_3233731.jpg"
+    
     
 </body>
 </html>
